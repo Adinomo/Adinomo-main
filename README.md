@@ -1,0 +1,26 @@
+## Hello i'm Adinomo👋
+
+![Adinomo](img/Black%20and%20White%20Simple%20Art%20Director%20LinkedIn%20Banner.png)
+
+<!--
+**Adinomo/Adinomo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
+
+- 🔭 I’m currently working on @wibocode
+- 🌱 I’m currently learning php & laravel
+- 👯 I’m looking to collaborate on Tik tok
+- 😁😁😁
+
+![great](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHA4M2F4bjI0ZW9ieGVqaWg0dmJlcGg4M2ozbXhxZTg0ZDd6czY0eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Mx936qy6jLxyjbqTiR/giphy.gif)
